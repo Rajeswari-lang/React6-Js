@@ -1,0 +1,33 @@
+{
+    "restaurant": [
+      {
+        "id": 1,
+        "name":"Pizza Hut",
+        "address":"Hyderabad",
+        "rating":"4.5",
+        "email":"pizzahut@test.com"
+      },
+      {
+        "id": 2,
+        "name":"McDonald",
+        "address":"Secundrabad",
+        "rating":"4.5",
+        "email":"mcdonal@test.com"
+      },
+      {
+        "id": 3,
+        "name":"Santosh Daba",
+        "address":"Hyderabad",
+        "rating":"4.5",
+        "email":"santoshdaba@test.com"
+      },
+      {
+        "id": 4,
+        "name":"Rayaseema Ruchulu",
+        "address":"Madapur",
+        "rating":"4.5",
+        "email":"rayaseemaruchulu@test.com"
+      }
+
+    ]
+  }
